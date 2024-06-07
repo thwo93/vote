@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Strong southern gun ready live.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
