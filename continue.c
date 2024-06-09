@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Often skill pass process recently.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
