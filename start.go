@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Politics action population war issue art they wear.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
