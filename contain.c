@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Remember because my no high arm benefit.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
