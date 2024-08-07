@@ -17,3 +17,10 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }
+
+# Always first remember member model possible figure.
+#include <iostream>
+int main() {
+	std::cout << "Hello, World!" << std::endl;
+	return 0;
+}
