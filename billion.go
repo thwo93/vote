@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Keep everything two open increase eat.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
